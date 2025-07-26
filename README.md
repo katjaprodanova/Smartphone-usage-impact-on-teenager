@@ -88,11 +88,11 @@ Another scatter plot. Comparing the Genders, and their addiction level influence
 
 * **Programming Languages:** Python Notebook
 * **Data Analysis Tools:** Excel, Pandas
-* **Data Visualization:** Tableau and Matplotlib, Seaborn in Notebook, for inline vizualizations
+* **Data Visualization:** Tableau and  Matplotli+Seaborn in Notebook(for inline vizualizations)
 * **Version Control:** Git & GitHub
 
 ---
 
 ## Contact
 
-Feel free to connect with me for questions or collaboration.
+Feel free to connect with me for questions.
